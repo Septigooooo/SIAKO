@@ -33,7 +33,7 @@ $aktif = 'home';
 
 		<!-- hero image -->
 		<div class="hero">
-			<img src="resources/images/banner_1.jpg" alt="">
+			<img src="resources/images/SIAKO.jpg" alt="">
 		</div>
 
 		<!-- content -->
